@@ -70,3 +70,6 @@ Add this content to your `hosts` file:
 ```text
 0.0.0.0 release.gitkraken.com
 ```
+
+## Get Gitkraken AUR Package
+[Gitkraken AUR Package](https://github.com/KillWolfVlad/GitKraken-AUR)
